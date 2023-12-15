@@ -518,8 +518,10 @@ public class ViewAdapter extends FragmentStateAdapter {
 
 
 
+https://github.com/Feibert/fragment/assets/151450071/137ab028-db56-407c-bf4d-316275134c28
 
-Uploading Video WhatsApp 2023-12-15 pukul 07.30.27_8b67f819.mp4…
+
+
 
 
 
