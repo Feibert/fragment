@@ -12,7 +12,7 @@ Dosen : Donny Maulana S.kom, M.M.S.I
 
 
 
-
+https://github.com/Feibert/fragment.git
 
 
 ## Fill in All The Code in This Project :
@@ -516,7 +516,12 @@ public class ViewAdapter extends FragmentStateAdapter {
 
 
 
-https://github.com/syifaaurellia/fragment_test/assets/115867244/40848674-e30a-4b2d-8c22-cf735496ae66
 
 
-## Selesai, Terima Kasih 
+
+Uploading Video WhatsApp 2023-12-15 pukul 07.30.27_8b67f819.mp4…
+
+
+
+
+
